@@ -47,6 +47,8 @@ python3 -m pip install jupyter
 
 ## Working
 1. First, Download the whole respository which contains [Jupyter Notebook File](https://github.com/BhaskarKarnatak/WebMap-using-Folium/blob/master/National%20Park.ipynb), [NationalPark CSV file](https://github.com/BhaskarKarnatak/WebMap-using-Folium/blob/master/NationalPark.csv) and sample picture of project.
-1 a) Run [NPark.py](https://github.com/BhaskarKarnatak/WebMap-using-Folium/blob/master/NPark.py) file and store [NationalPark CSV file](https://github.com/BhaskarKarnatak/WebMap-using-Folium/blob/master/NationalPark.csv) in same folder.
+
+2 a) Run [NPark.py](https://github.com/BhaskarKarnatak/WebMap-using-Folium/blob/master/NPark.py) file and store [NationalPark CSV file](https://github.com/BhaskarKarnatak/WebMap-using-Folium/blob/master/NationalPark.csv) in same folder.
+
 2 b) **Optional** Open Jupyter Notebook file and run all the command.
 3. It will generate a HTML file in the same folder.
